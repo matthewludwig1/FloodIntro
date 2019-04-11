@@ -4,6 +4,7 @@
  * and open the template in the editor.
  ~ This class uses recursive methods to display the amount of 'blobs' in a given
    grid.
+ ~ use this to create the program Cancer.java
  */
 
 package floodintro;
